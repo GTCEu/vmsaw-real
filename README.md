@@ -1,10 +1,7 @@
-# vmsaw
+# vmsaw 
 Discord selfbot that mimics other people using MARKOV CHAINNSSSSSSS
+BY The crazy insanity!
 
-Very
-Make
-Sense
-Actual
-Words
+https://gitea.thecrazyinsanity.win/thecrazyinsanity/vmsaw
 
-AKA waffle man
+^
